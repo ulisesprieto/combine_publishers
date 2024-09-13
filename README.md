@@ -3,4 +3,6 @@
 
 We learn how the Combine publishers emit events to coloured labels subscribed to their changes.
 
-![image](https://github.com/user-attachments/assets/c022410c-0e88-4391-acf1-672ce6a2c07e)
+|Example|
+|-|
+|<img src="https://github.com/user-attachments/assets/c022410c-0e88-4391-acf1-672ce6a2c07e" width="300">|
